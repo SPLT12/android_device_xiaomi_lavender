@@ -482,7 +482,3 @@ PRODUCT_PACKAGES += \
 # HW crypto
 PRODUCT_PACKAGES += \
     vendor.qti.hardware.cryptfshw@1.0-service-ioctl-qti
-
-# Wallpapers
-PRODUCT_PACKAGES += \
-    WallpapersBReel2019
