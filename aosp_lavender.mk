@@ -53,4 +53,4 @@ TARGET_GAPPS_ARCH := arm64
 IS_PHONE := true
 
 # Use Gcam
-TARGET_USE_GCAM := true
+# TARGET_USE_GCAM := true
